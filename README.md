@@ -29,13 +29,13 @@ Soubor `main.py` řeší 15 úloh zaměřených na základní operace knihovny S
 ### 1. Instalace závislostí
 
 ```bash
-pip install sympy
+pip install sympy  --break-system-packages
 ```
 
 ### 2. Spuštění programu
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Program postupně vypíše výsledky všech 15 úloh do terminálu.
